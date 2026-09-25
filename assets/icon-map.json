@@ -1,0 +1,914 @@
+[
+  {
+    "file": "boot_linux.png",
+    "art": "happy-heart-linux",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "boot_win.png",
+    "art": "happy-heart-win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "func_about.png",
+    "art": "about",
+    "badge": "info",
+    "label": "关于信息",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_bootorder.png",
+    "art": "tools",
+    "badge": "order",
+    "label": "启动顺序",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_csr_rotate.png",
+    "art": "tools",
+    "badge": "sip",
+    "label": "macOS SIP 配置",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_exit.png",
+    "art": "exit",
+    "badge": "exit",
+    "label": "退出 rEFInd",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_firmware.png",
+    "art": "tools",
+    "badge": "firmware",
+    "label": "UEFI 固件设置",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_hidden.png",
+    "art": "hidden",
+    "badge": "eye",
+    "label": "隐藏项管理",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_install.png",
+    "art": "tools",
+    "badge": "install",
+    "label": "安装 rEFInd",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_reset.png",
+    "art": "restart",
+    "badge": "restart",
+    "label": "重启电脑",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "func_shutdown.png",
+    "art": "shutdown",
+    "badge": "power",
+    "label": "关闭电脑",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "os_aos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "AOS",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_arch.png",
+    "art": "happy-heart-held-arch",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "arch",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_artful.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_bionic.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_centos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "CentOS",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_chakra.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Chakra",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_chrome.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Chrome",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_clover.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "clover",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_crunchbang.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "#!",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_debian.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_debian.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_devuan.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Devuan",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_elementary.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_elementary.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_endeavouros.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_endeavouros.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_fedora.png",
+    "art": "happy-heart-held-fedora",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "fedora",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_freebsd.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_freebsd.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_frugalware.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "FW",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_gentoo.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_gentoo.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_gummiboot.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "EFI",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_haiku.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Haiku",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_hwtest.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "hwtest",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_kubuntu.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_kubuntu.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_legacy.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "BIOS",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_linux.png",
+    "art": "happy-heart-held-linux",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "linux",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_linuxmint.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_linuxmint.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_lubuntu.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "LXQt",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_mac.png",
+    "art": "happy-heart-held-mac",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "mac",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_mageia.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Mageia",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_mandriva.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_mandriva.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_manjaro.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_manjaro.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_netbsd.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_netbsd.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_network.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "network",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_opensuse.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_opensuse.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_redhat.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "RHEL",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_refind.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_refind.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_refit.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFIt",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_slackware.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_slackware.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_suse.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "SUSE",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_systemd.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "systemd",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_trusty.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_ubuntu.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_uefi.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "EFI",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_unknown.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_unknown.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_void.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_void.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_win.png",
+    "art": "happy-heart-held-win",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_win8.png",
+    "art": "happy-heart-held-win",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_xenial.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_xubuntu.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_xubuntu.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_zesty.png",
+    "art": "happy-heart-held-ubuntu",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "ubuntu",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "tool_apple_rescue.png",
+    "art": "tools",
+    "badge": "mac",
+    "label": "macOS 恢复",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_fwupdate.png",
+    "art": "tools",
+    "badge": "update",
+    "label": "固件更新",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_memtest.png",
+    "art": "tools",
+    "badge": "ram",
+    "label": "内存检测",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_mok_tool.png",
+    "art": "tools",
+    "badge": "key",
+    "label": "MOK 密钥管理",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_netboot.png",
+    "art": "tools",
+    "badge": "netboot",
+    "label": "网络启动",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_part.png",
+    "art": "tools",
+    "badge": "partition",
+    "label": "磁盘分区",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_rescue.png",
+    "art": "tools",
+    "badge": "rescue",
+    "label": "通用救援",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_shell.png",
+    "art": "tools",
+    "badge": "shell",
+    "label": "EFI 命令行",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "tool_windows_rescue.png",
+    "art": "tools",
+    "badge": "windows",
+    "label": "Windows 恢复",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 96
+  },
+  {
+    "file": "vol_efi.png",
+    "art": "tools",
+    "badge": "efi",
+    "label": "EFI 卷",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 48
+  },
+  {
+    "file": "vol_external.png",
+    "art": "tools",
+    "badge": "usb",
+    "label": "外接磁盘 / U 盘",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 48
+  },
+  {
+    "file": "vol_internal.png",
+    "art": "tools",
+    "badge": "disk",
+    "label": "内置磁盘",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 48
+  },
+  {
+    "file": "vol_net.png",
+    "art": "tools",
+    "badge": "network",
+    "label": "网络卷",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 48
+  },
+  {
+    "file": "vol_optical.png",
+    "art": "tools",
+    "badge": "optical",
+    "label": "光盘",
+    "cornerBadge": true,
+    "badgePosition": "bottom-right",
+    "size": 48
+  },
+  {
+    "file": "os_antergos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_antergos.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_antergos_thin.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_antergos_thin.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_apricity.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_apricity.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_artix.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_artix.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_batocera.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_batocera.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_deepin.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_deepin.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_fydeos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_fydeos.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_kali.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_kali.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_neon.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_neon.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_netbootxyz.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_netbootxyz.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_nixos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_nixos.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_oc.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_oc.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_opencore.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_opencore.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_openfyde.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_openfyde.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_pclinuxos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_pclinuxos.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_phoenix.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_phoenix.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_pikaos.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_pikaos.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_pop.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_pop.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_sabayon.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_sabayon.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_solus.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_solus.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_steam.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_steam.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_ubuntugnome.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "rEFInd-minimal/os_ubuntugnome.png",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_win10.png",
+    "art": "happy-heart-held-win",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_win11.png",
+    "art": "happy-heart-held-win",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_windows.png",
+    "art": "happy-heart-held-win",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "win",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_archlinux.png",
+    "art": "happy-heart-held-arch",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "arch",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_endless.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "EOS",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_zorin.png",
+    "art": "held-plaque",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "Zorin",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  },
+  {
+    "file": "os_linux-lts.png",
+    "art": "happy-heart-held-linux",
+    "badge": null,
+    "cornerBadge": false,
+    "heldMark": "linux",
+    "expression": "open-mouth happy smile",
+    "decoration": "red heart and gold sparkles"
+  }
+]

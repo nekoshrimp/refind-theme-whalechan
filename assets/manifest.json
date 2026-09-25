@@ -1,0 +1,387 @@
+[
+  {
+    "file": "assets/art/functions/about.png",
+    "sha256": "b19ac7dbeed8b5a93bb0ce2e863838aca52df2ebc3b73c086afe0e380e454fee",
+    "bytes": 1623747
+  },
+  {
+    "file": "assets/art/functions/exit.png",
+    "sha256": "bd2d60520789525df5b7cf0e549fe64f6617a2479458681c5e0e23bb72db5d7e",
+    "bytes": 1611416
+  },
+  {
+    "file": "assets/art/functions/hidden.png",
+    "sha256": "c2c75e6e6d7cc1bfa3a21f5caf14b4251de9afa707f5e048e49d3411ec44eec6",
+    "bytes": 1601761
+  },
+  {
+    "file": "assets/art/functions/restart.png",
+    "sha256": "29fe0d5722fbd9f89f445583bf4ad31174f21a4c4216fb79800a95b322c5627b",
+    "bytes": 1576769
+  },
+  {
+    "file": "assets/art/functions/shutdown.png",
+    "sha256": "417fbf5ecddfed9d8062ce927190aa43f3a94cc5b0b2e32b79c37be52216a51b",
+    "bytes": 1526467
+  },
+  {
+    "file": "assets/art/functions/tools.png",
+    "sha256": "f576a46b6f03303cc523417a0da86c3413e4a47dffa3317fdd407e98c77c57b0",
+    "bytes": 1591253
+  },
+  {
+    "file": "assets/art/os/arch.png",
+    "sha256": "77bda3ab816d7de327c2131e4fb7f0bcb1e99765fcf669a009d89e64f8d6712d",
+    "bytes": 1640784
+  },
+  {
+    "file": "assets/art/os/fedora.png",
+    "sha256": "8d90c402781b0624c8d2fe5c17603da99a4c488e1739fbec1d3c8b8af6f6d54b",
+    "bytes": 1639821
+  },
+  {
+    "file": "assets/art/os/holder.png",
+    "sha256": "d1a50fa671f72d74b3cc9bc848633e7fe6b80c8980f8a32c9f92902a52881150",
+    "bytes": 1601819
+  },
+  {
+    "file": "assets/art/os/linux.png",
+    "sha256": "a73428185bb36a1de7717dc55e6218bd1c10251fe5eb74a077fb47f2779f3d3b",
+    "bytes": 1583545
+  },
+  {
+    "file": "assets/art/os/mac.png",
+    "sha256": "ee63165665d79b907e9aa3aea557f70498af96dd2336d2176e60c9b2928860c4",
+    "bytes": 1646552
+  },
+  {
+    "file": "assets/art/os/ubuntu.png",
+    "sha256": "be1c04010d72585397c24969d4b99e23b2c81fd976037ff6af2962eeb7f25d25",
+    "bytes": 1662325
+  },
+  {
+    "file": "assets/art/os/win.png",
+    "sha256": "9b920e1be09b90b96d7d64fa51af8a6631a1978b24a22d165631fa08164d659f",
+    "bytes": 1631074
+  },
+  {
+    "file": "assets/badges/disk.svg",
+    "sha256": "22ae9f43842407ad0254d0e95106298cb0651df4a159c07f46dcc158b1084104",
+    "bytes": 334
+  },
+  {
+    "file": "assets/badges/efi.svg",
+    "sha256": "b0bfe712ea8cd0b6f1385ef202c4048a305945a40d08ffb3cc41864b1a46b571",
+    "bytes": 295
+  },
+  {
+    "file": "assets/badges/exit.svg",
+    "sha256": "8f5165540523b86ff20956f17ed50d40a6f9a7007f3c68f0413a6e2e76b27a8c",
+    "bytes": 265
+  },
+  {
+    "file": "assets/badges/eye.svg",
+    "sha256": "2afa5c86a8994a70f4b3fe6aa18f23440e072d75a7f3d0afac44556be1545067",
+    "bytes": 283
+  },
+  {
+    "file": "assets/badges/firmware.svg",
+    "sha256": "8b2cdd2b152658e73907e03a08fad0273418176b5294ef826f6d523f075f8cb5",
+    "bytes": 361
+  },
+  {
+    "file": "assets/badges/info.svg",
+    "sha256": "6e4c2b5f9078b942fda42071d16eb2e286f9b696b111a01c56ff82a50ccb9899",
+    "bytes": 332
+  },
+  {
+    "file": "assets/badges/install.svg",
+    "sha256": "1a887e1021da2951e9c24d47dc04d037b141550676631a0a0b9d173625ee50e7",
+    "bytes": 259
+  },
+  {
+    "file": "assets/badges/key.svg",
+    "sha256": "6e8bb9d93b108e94cb7e8ab7b55b541d64834b5e18abafe035b35ab068b190d8",
+    "bytes": 287
+  },
+  {
+    "file": "assets/badges/mac.svg",
+    "sha256": "f843f7d7586bbadcc01bdbe1db286ae6a1761453792454c01fad8fbe501573ca",
+    "bytes": 482
+  },
+  {
+    "file": "assets/badges/netboot.svg",
+    "sha256": "d2afa4dc0aa8331e3cbaaffa48fb2a951cdbf17844e0b9846b93d057450434ed",
+    "bytes": 306
+  },
+  {
+    "file": "assets/badges/network.svg",
+    "sha256": "cea5c620394712b8c10f388dac20c70bdcfd30af868a9fb2a0489c185091c526",
+    "bytes": 448
+  },
+  {
+    "file": "assets/badges/optical.svg",
+    "sha256": "b0dbe9b85eddf6d734c7b051b3b4b08f31692e0ca18cb08e69c2868b6e63e05b",
+    "bytes": 335
+  },
+  {
+    "file": "assets/badges/order.svg",
+    "sha256": "256aeb2e9d6bcd8ebd71b3ffc1ba91133ebb0fc4441f2cabf50f8e7afc9698c1",
+    "bytes": 271
+  },
+  {
+    "file": "assets/badges/partition.svg",
+    "sha256": "6a58f7931264dbc2cd3c5519b33034bf99b1f7cfad34cb3a9bf22eee0ac5482c",
+    "bytes": 350
+  },
+  {
+    "file": "assets/badges/power.svg",
+    "sha256": "82d20848cfaeb167bbe04825402de95774d50ad30eddd8bcc69e47f21b413e81",
+    "bytes": 255
+  },
+  {
+    "file": "assets/badges/ram.svg",
+    "sha256": "69fae9eab8e315bc60d8f7da95b432a9782de183f6998218a80d7c6359137135",
+    "bytes": 331
+  },
+  {
+    "file": "assets/badges/rescue.svg",
+    "sha256": "99643349c695ba58e65cf3fb26587a21e5e01ac121d1909f4e9e048ade04a504",
+    "bytes": 327
+  },
+  {
+    "file": "assets/badges/restart.svg",
+    "sha256": "42873c369f69ef7373c015492e17a891bf1c05a1b786adead38f28c24f2ac3f2",
+    "bytes": 258
+  },
+  {
+    "file": "assets/badges/shell.svg",
+    "sha256": "f41a55370bfe0469cc944f50eddc8a319188f9d06e56e1581bee276f60800cb6",
+    "bytes": 295
+  },
+  {
+    "file": "assets/badges/sip.svg",
+    "sha256": "212983ed68b7ec608ef7da1ff8a3c6664846bf3828f97c2c6ec248d66cbd29ce",
+    "bytes": 296
+  },
+  {
+    "file": "assets/badges/update.svg",
+    "sha256": "479c5fbf50c2e45160c261948fef1312576d272ea5700414d0a86847befb18d9",
+    "bytes": 323
+  },
+  {
+    "file": "assets/badges/usb.svg",
+    "sha256": "076bef8a4508b4c68ba5415de9f0c2fefa0ff907b9ebeaf7efbb20eafabb020d",
+    "bytes": 302
+  },
+  {
+    "file": "assets/badges/windows.svg",
+    "sha256": "b71dda509b8760102ac5296fe49f3df5759880a49b1d6f074ace924d4ebd09c1",
+    "bytes": 378
+  },
+  {
+    "file": "assets/os-logos/os_antergos.png",
+    "sha256": "db6ae6d3e0f1d5ff5d927eea26520bafc6f00024d71a65c782d445ee06794bac",
+    "bytes": 7540
+  },
+  {
+    "file": "assets/os-logos/os_antergos_thin.png",
+    "sha256": "74f4356e8fd33fda5ec1cdcffaa95d651e855ec34c19dea3fd3a5cf551e6daeb",
+    "bytes": 3255
+  },
+  {
+    "file": "assets/os-logos/os_apricity.png",
+    "sha256": "37ca01eb7d4a723a42403af87e120ba094687f0449920966bdc6613aefa3d809",
+    "bytes": 4955
+  },
+  {
+    "file": "assets/os-logos/os_artix.png",
+    "sha256": "b8423f6c27e8579b08c50d9e1c64942448160f580aeeada3d1066361508d4dd6",
+    "bytes": 2317
+  },
+  {
+    "file": "assets/os-logos/os_batocera.png",
+    "sha256": "6d96ffc093bbe413ea401f4da63d76f4fe396d25afbd456d8b5497d14e0dfd8e",
+    "bytes": 5954
+  },
+  {
+    "file": "assets/os-logos/os_debian.png",
+    "sha256": "6b842f729e7e53e0f95097318a7e00e4b6fc3ee56e389a1810e865cdf5ce6941",
+    "bytes": 2862
+  },
+  {
+    "file": "assets/os-logos/os_deepin.png",
+    "sha256": "19503e05d078bf85d2dba497b739bb3cbb897601d4c60ba7aee4985fd1530970",
+    "bytes": 19488
+  },
+  {
+    "file": "assets/os-logos/os_elementary.png",
+    "sha256": "41f88f02cd44fc0bcafcbe8d4baaf274719cee0db67cfeeba1498a89c33e1e48",
+    "bytes": 5728
+  },
+  {
+    "file": "assets/os-logos/os_endeavouros.png",
+    "sha256": "d7ac2d474f29c13b568966eab59385a981b058ed1e9859a3699daa0384f00def",
+    "bytes": 9933
+  },
+  {
+    "file": "assets/os-logos/os_freebsd.png",
+    "sha256": "85155bb5cffdfcf04bf1c3269ee7f6f3e0a9758f6f01e51a5e393a3b0ad18221",
+    "bytes": 3330
+  },
+  {
+    "file": "assets/os-logos/os_fydeos.png",
+    "sha256": "e69d3aa0a7931ed6b4d35749b02c82af8391b11487182487886007af61ccc8f5",
+    "bytes": 859
+  },
+  {
+    "file": "assets/os-logos/os_gentoo.png",
+    "sha256": "8802d6bfbe4af217c9a223d2d0029b846e04e74c94e63368a16e753fc0b12e27",
+    "bytes": 3860
+  },
+  {
+    "file": "assets/os-logos/os_kali.png",
+    "sha256": "f14f2f20f72fd315f312836648cb9657913dd69dca3f403a0ad041dc6905d3a0",
+    "bytes": 5337
+  },
+  {
+    "file": "assets/os-logos/os_kubuntu.png",
+    "sha256": "b9204862742b9abdd7450b4bf2b6b4c419a289ffc4d722783fbb25207b4ceea3",
+    "bytes": 8338
+  },
+  {
+    "file": "assets/os-logos/os_linuxmint.png",
+    "sha256": "b12f013d385af7a8080ad972c5bb367b2b5208bbd9d923fcbcb94aaa14fb24a1",
+    "bytes": 2277
+  },
+  {
+    "file": "assets/os-logos/os_mandriva.png",
+    "sha256": "f422eb205e524ba9160cb9944ea265147e7e9657a5bf41d174972375dba6d44b",
+    "bytes": 3079
+  },
+  {
+    "file": "assets/os-logos/os_manjaro.png",
+    "sha256": "587ef1aa4c7690291a035513a9b8671d367001ac9b63be56d7cf7bc6b19c9067",
+    "bytes": 485
+  },
+  {
+    "file": "assets/os-logos/os_neon.png",
+    "sha256": "32371dde7ed87be77ebb56a7d0ccfa317ca63ab2b125253c206e00a1161038bc",
+    "bytes": 2429
+  },
+  {
+    "file": "assets/os-logos/os_netbootxyz.png",
+    "sha256": "84b9d040386efa7a1f4d79652b7fe382d76382a15452ae4d00c60161b8a438b8",
+    "bytes": 3801
+  },
+  {
+    "file": "assets/os-logos/os_netbsd.png",
+    "sha256": "0cc259389245b65479fd418183ae8cc015399ed01025f4063226fcf47acea2ee",
+    "bytes": 3110
+  },
+  {
+    "file": "assets/os-logos/os_nixos.png",
+    "sha256": "9e42817f08cb925932009690420572fdbac66b5cc5ec780c5251d25f7344ffaa",
+    "bytes": 7626
+  },
+  {
+    "file": "assets/os-logos/os_oc.png",
+    "sha256": "065e7f685b0df94d018679569ecdf1438c48348a07363384730b9a9537fc185d",
+    "bytes": 4084
+  },
+  {
+    "file": "assets/os-logos/os_opencore.png",
+    "sha256": "065e7f685b0df94d018679569ecdf1438c48348a07363384730b9a9537fc185d",
+    "bytes": 4084
+  },
+  {
+    "file": "assets/os-logos/os_openfyde.png",
+    "sha256": "918446b4825758dfefeb5c36ea117da318e249415606ca48b4354561fd66ed4f",
+    "bytes": 723
+  },
+  {
+    "file": "assets/os-logos/os_opensuse.png",
+    "sha256": "4d3c942405baaaea785d8bfe6e941230cabdbbcbd0d4de5947c9790b643b7450",
+    "bytes": 3194
+  },
+  {
+    "file": "assets/os-logos/os_pclinuxos.png",
+    "sha256": "8e98ae2cef151a297ae0a3ee02f50cd1756a0d2bcef3e89bbd7b8447cb9a5dcf",
+    "bytes": 4294
+  },
+  {
+    "file": "assets/os-logos/os_phoenix.png",
+    "sha256": "a99ae2fd352dd02cdad40939e9df2207a594de158ea23720b855013326710b2f",
+    "bytes": 19563
+  },
+  {
+    "file": "assets/os-logos/os_pikaos.png",
+    "sha256": "c08167212d4e9ba61b8fa5829302ca7e8b91265831ea910416a1305e0cf0de51",
+    "bytes": 4533
+  },
+  {
+    "file": "assets/os-logos/os_pop.png",
+    "sha256": "297f387076b460f6f024b9aa29972c175f59b6c8220613c0268256935979a915",
+    "bytes": 6035
+  },
+  {
+    "file": "assets/os-logos/os_refind.png",
+    "sha256": "eb661d468bfe109085d2fca2d52da960d4a5886b58b4201c9e0957ab65fef8ff",
+    "bytes": 1724
+  },
+  {
+    "file": "assets/os-logos/os_sabayon.png",
+    "sha256": "fdd21d5b14b74e9bdb7309789abb006d0355920296b80891a3798166ea3727f2",
+    "bytes": 1818
+  },
+  {
+    "file": "assets/os-logos/os_slackware.png",
+    "sha256": "24530ec4461b1fc85f73f45609ade0a48dba03038d832f092fba752861301893",
+    "bytes": 2891
+  },
+  {
+    "file": "assets/os-logos/os_solus.png",
+    "sha256": "698f505d47c0168da39bc59be20d4ecbffe6925688feac0182fbb62a50c1452c",
+    "bytes": 3853
+  },
+  {
+    "file": "assets/os-logos/os_steam.png",
+    "sha256": "0c08b86e6d75d922fe9dd4313b45e6f28ced9e5a51e39e02833ca7791ad0b9ae",
+    "bytes": 7642
+  },
+  {
+    "file": "assets/os-logos/os_ubuntugnome.png",
+    "sha256": "2bea4768d509086ec51cb51d18cfcfb97a12af274989ed5fbbef1a9e5b59fff3",
+    "bytes": 3519
+  },
+  {
+    "file": "assets/os-logos/os_unknown.png",
+    "sha256": "30bd274246359bf768299dc6438e7a8719f5f8d295b40d1d7cf272fde86c78d3",
+    "bytes": 3802
+  },
+  {
+    "file": "assets/os-logos/os_void.png",
+    "sha256": "3706be92d2e63c37cf3543074185a43d2b691ca71cd602c33cdb154d557b48f5",
+    "bytes": 2902
+  },
+  {
+    "file": "assets/os-logos/os_xubuntu.png",
+    "sha256": "b0f8d280a075da8490c452c0216de5c60e8e3f7191f804a6fb39b1806354e0bf",
+    "bytes": 3456
+  },
+  {
+    "file": "assets/prompts/functions.md",
+    "sha256": "6a0610b15673abc6bc3c9d519aba8830f01d00e9af7bc42c82712a4978ada342",
+    "bytes": 4829
+  },
+  {
+    "file": "assets/prompts/os.md",
+    "sha256": "0edb92effd1d78b94bf4913c49d33fe383f5111dbf37b173be1e5ae955aea32f",
+    "bytes": 4153
+  },
+  {
+    "file": "assets/references/delighted.png",
+    "sha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9",
+    "bytes": 1669896
+  }
+]
