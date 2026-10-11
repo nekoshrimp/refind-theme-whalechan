@@ -9,6 +9,6 @@
 
 最初的 Q 版参考图取自 **[Small-tailqwq / dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale/blob/main/maid-atelier/assets/icons/delighted-cutout.png)**，角色衍生图和本项目新增贡献采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)**：保留署名、非商业性使用、相同方式共享，并注明修改。上游美术许可及来源声明保留在 [licenses](licenses/)。
 
-背景作者为 **ZipZipPipe**，沿用 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)**，保留原图与署名。
+背景作者为 **ZipZipPipe**，沿用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)**：保留署名、非商业性使用、相同方式共享，并注明修改。本项目保留原图，未重绘或修改背景。
 
 主题底版与部分系统标志来自 **[rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal)**，保留其 [MIT 许可](licenses/rEFInd-minimal-MIT.txt)及来源说明。系统名称、标志和商标归各自权利人所有。
